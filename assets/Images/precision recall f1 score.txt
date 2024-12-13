@@ -1,0 +1,36 @@
+                           precision  recall    f1-score   support     
+                    egg       0.74      0.86      0.79       100
+       whole_egg_boiled       1.00      0.76      0.86        87
+                   milk       1.00      0.81      0.89        52
+               icecream       0.96      0.90      0.93        73
+                 cheese       0.91      0.89      0.90        55
+    milk_based_beverage       0.60      0.92      0.73        39
+              chocolate       0.99      0.96      0.97        81
+non_milk_based_beverage       0.52      0.66      0.58        38
+            cooked_meat       0.33      0.81      0.47        27
+               raw_meat       1.00      0.92      0.96        38
+                alcohol       0.92      0.80      0.86        45
+          alcohol_glass       0.74      0.89      0.81        38
+                spinach       0.96      1.00      0.98        23
+                avocado       0.96      0.98      0.97        82
+               eggplant       0.95      1.00      0.98        99
+              blueberry       0.72      1.00      0.83        91
+             blackberry       0.74      0.59      0.66        44
+             strawberry       0.44      0.44      0.40        45
+              pineapple       0.89      0.99      0.94       143
+               capsicum       1.00      0.97      0.99        39
+               mushroom       1.00      0.72      0.84        71
+                  dates       1.00      0.75      0.86        72
+                 almond       0.98      0.97      0.97       100
+              pistachio       1.00      1.00      1.00        58
+                 tomato       0.78      0.80      0.79        95
+                   roti       0.66      0.88      0.76        42
+                  pasta       0.98      0.98      0.98        43
+                  bread       0.73      0.62      0.67       107
+             bread_loaf       0.62      0.60      0.61        62
+                  pizza       0.82      0.68      0.75        73
+
+               accuracy                           0.84      1962
+              macro avg       0.82      0.82      0.81      1962
+           weighted avg       0.84      0.84      0.83      1962
+
