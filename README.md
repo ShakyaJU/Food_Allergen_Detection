@@ -27,6 +27,28 @@ The application analyzes food images and provides four key outputs:
   <img src="./FAD Screenshots/2146510_Poster.png" alt="Academic Poster" width="1000">
 </p>
 
+## UML Diagrams 
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="./FAD Screenshots/Use Case Diagram FAD.jpg" alt="Use Case Diagram" width="500">
+      <br><b>Use Case Diagram</b>
+      <p align="justify">
+        The use case diagram illustrates user interaction with the food allergen detection app. The user opens the app, views the home screen, and selects an option to capture or upload a food image for analysis. The app processes the image and displays the detected allergen results, showcasing the overall user engagement with the application.
+      </p>
+    </td>
+    <td align="center">
+      <img src="./FAD Screenshots/FAD Activity Diagram.jpg" alt="Activity Diagram" width="500">
+      <br><b>Activity Diagram</b>
+      <p align="justify">
+        The activity diagram illustrates the workflow of the food allergen detection app. The user opens the app, navigates to the home screen, and selects either image upload or real-time camera. Upon tapping the predict button, the system processes the image, compares it with a machine learning dataset, and displays the detected allergen results.
+      </p>
+    </td>
+  </tr>
+</table>
+
+
 ## Instructions for Setting Up and Running the Food Allergen Detection Application:
 
 Follow these steps to set up and run the Food Allergen Detection mobile application:
