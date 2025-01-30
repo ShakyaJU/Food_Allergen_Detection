@@ -27,4 +27,8 @@ The application predicts and gives three different outputs :
   <img src="./FAD Screenshots/2146510_Poster.png" alt="Academic Poster" width="1200" height="700">
 </p>
 
-If you want more indepth information regarding my thesis, click <a href="https://drive.google.com/file/d/1ySyLzoq-AHXGrASVhDfHyeHaIzmRi5i2/view?usp=sharing"> here </a>
+## Thesis Report
+For a detailed and comprehensive understanding of my thesis, including the research, methodology, implementation, model training and literature findings, you can access the full report by clicking the link below:
+👉<a href="https://drive.google.com/file/d/1ySyLzoq-AHXGrASVhDfHyeHaIzmRi5i2/view?usp=sharing"> View Thesis Report </a>
+
+
