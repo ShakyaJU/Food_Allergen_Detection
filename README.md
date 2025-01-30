@@ -95,28 +95,28 @@ Follow these steps to set up and run the Food Allergen Detection mobile applicat
 
 <pre>
 │Food-Allergen-Detection/
-├── assets/                       # Folder for "backend-related" files (Python, model files, etc.)
-│   ├── images/                   # Images of the testing outputs of the trained model.
-│   ├── venv/                     # Virtual environment for Python dependencies
-│   ├── model/                    # Folder for machine learning models
+├── assets/                        # Folder for "backend-related" files (Python, model files, etc.)
+│   ├── images/                    # Images of the testing outputs of the trained model.
+│   ├── venv/                      # Virtual environment for Python dependencies
+│   ├── model/                     # Folder for machine learning models
 │   │   ├── final_model_after_additional_training.keras # Trained model------------> Trained Model (273MB)👉<a href="https://drive.google.com/file/d/1UfszdRCSBm7__OJUBeO5fEK0dMaapdnV/view?usp=sharing"> Download </a>
-│   │   ├── class_indices.json    # Class-to-index mapping for predictions
+│   │   ├── class_indices.json     # Class-to-index mapping for predictions
 │   │   ├── class_allergen_map.json # Mapping of classes to allergen info
-│   ├── main.py                   # Python backend entry point (Flask API)
-│   ├── routes.py                 # API routes (for prediction and home endpoints)
-│   ├── model_utils.py            # Utility functions for loading model, preprocessing, etc.
+│   ├── main.py                    # Python backend entry point (Flask API)
+│   ├── routes.py                  # API routes (for prediction and home endpoints)
+│   ├── model_utils.py             # Utility functions for loading model, preprocessing, etc.
 │
-├── frontend/                     # Folder for frontend-related files (Flutter app)
+├── frontend/                      # Folder for frontend-related files (Flutter app)
 │   ├── lib/
-│   │   ├── main.dart             # Main entry point for the Flutter app
+│   │   ├── main.dart              # Main entry point for the Flutter app
 │   │   ├── screens/
 │   │   │   ├── home_screen.dart   # Main interface of the app
 │   │   │   ├── upload_screen.dart # Screen for uploading and processing food images
 │   │   │   ├── camera_screen.dart # Screen for capturing and processing food images in real-time
 │   │   ├── services/
-│   │   │   ├── api_service.dart  # API service for communicating with backend
-│   ├── assets/                   # Flutter assets such as images and fonts
-└── pubspec.yaml                  # Flutter project configuration file
+│   │   │   ├── api_service.dart   # API service for communicating with backend
+│   ├── assets/                    # Flutter assets such as images and fonts
+└── pubspec.yaml                   # Flutter project configuration file
 </pre>
 
 
