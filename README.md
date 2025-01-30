@@ -11,24 +11,25 @@
   </p>
 
 ## Food Allergen Prediction:
-The application predicts and gives three different outputs : 
-- **Description**:  A human-readable explanation for the predicted class.
-- **Predicted Class**: A label such as image of egg, pizza, milk, etc.
-- **Allergen**: The allergenic component of the specific class, like Ovomucoid or Lactose Histamine, etc.
-- **Allergen Detected/Not Detected message**: An alert message displaying whether allergen is detected or not
+The application analyzes food images and provides four key outputs: 
+- **Description**:  A clear, human-readable explanation of the predicted food item.
+- **Predicted Class**: The identified food category (e.g., egg, pizza, milk).
+- **Allergen**: The specific allergenic component present in the food (e.g., Ovomucoid, Lactose, Histamine).
+- **Detection Status**: A alert message indicating whether an allergen has been detected or not.
 
 <p align="center">
   <img src="./FAD Screenshots/Outputs.png" alt="Main Page" width="300" height="600">
   <img src="./FAD Screenshots/No allergen detected.png" alt="Select Permissions" width="300" height="600">
 
-## Academic Poster
+## Academic Poster  
 
 <p align="center">
-  <img src="./FAD Screenshots/2146510_Poster.png" alt="Academic Poster" width="1200" height="700">
+  <img src="./FAD Screenshots/2146510_Poster.png" alt="Academic Poster" width="1000">
 </p>
 
+
 ## Thesis Report
-For a detailed and comprehensive understanding of my thesis, including the research, methodology, implementation, model training and literature findings, you can access the full report by clicking the link below:
+For a detailed and comprehensive understanding of my thesis, including the research, methodology, implementation, model training and literature findings, you can access the full report by clicking this link:
 👉<a href="https://drive.google.com/file/d/1ySyLzoq-AHXGrASVhDfHyeHaIzmRi5i2/view?usp=sharing"> View Thesis Report </a>
 
 
