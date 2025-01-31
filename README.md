@@ -61,14 +61,14 @@ The application analyzes food images and provides **four key outputs**:
       <img src="./FAD Screenshots/Use Case Diagram FAD.jpg" alt="Use Case Diagram" width="500">
       <br><b>Use Case Diagram</b>
       <p align="justify">
-        The **Use Case Diagram** illustrates user interactions with the application. Users can **capture or upload a food image**, analyze allergens, and receive instant results.
+        The Use Case Diagram illustrates user interactions with the application. Users can **capture or upload a food image**, analyze allergens, and receive instant results.
       </p>
     </td>
     <td align="center">
       <img src="./FAD Screenshots/FAD Activity Diagram.jpg" alt="Activity Diagram" width="500">
       <br><b>Activity Diagram</b>
       <p align="justify">
-        The **Activity Diagram** showcases the workflow of the app, from launching and image input to AI processing and allergen detection.
+        The Activity Diagram showcases the workflow of the app, from launching and image input to AI processing and allergen detection.
       </p>
     </td>
   </tr>
