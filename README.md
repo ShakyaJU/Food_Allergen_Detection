@@ -1,6 +1,6 @@
 <h1 align="center">Food Allergen Detection</h1>
 
-<h3 align="center">Leveraging CNN for allergen detection in food to protect the consumers. 📱🔬</h3>
+<h3 align="center">Leveraging CNN for allergen detection in food to protect the consumers. 📱</h3>
 
 ---
 
