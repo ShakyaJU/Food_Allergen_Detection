@@ -143,7 +143,7 @@ Follow these steps to set up and run the Food Allergen Detection mobile applicat
 
 
 ## Thesis Report
-P.S. For a detailed and comprehensive overview of my thesis and the entire project—including research, methodology, implementation, model training, and literature findings, please access the full report by clicking this link:👉<a href="https://drive.google.com/file/d/1ySyLzoq-AHXGrASVhDfHyeHaIzmRi5i2/view?usp=sharing"> View Thesis Report </a>
+P.S. For a detailed and comprehensive overview of my thesis and the entire project—including research, methodology, implementation, model training, and literature findings, please access the full report by clicking here👉<a href="https://drive.google.com/file/d/1ySyLzoq-AHXGrASVhDfHyeHaIzmRi5i2/view?usp=sharing"> Thesis Report </a>
 
 
 
