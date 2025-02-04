@@ -29,6 +29,12 @@ For my final year undergraduate project, I developed a **Food Allergen Detection
 
 ---
 
+## 🎬 App Demo
+
+Feel free to watch the app demonstration by clicking 👉<a href="https://drive.google.com/file/d/1LfWz18sNSftN4lrHOACaU-CJPvDKuOcW/view?usp=sharing"> here </a>
+
+---
+
 ## 🔬 Prediction Output
 
 The application analyzes food images and provides **four key outputs**:
